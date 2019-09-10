@@ -1,0 +1,19 @@
+{
+  "name": "taiko-a11y",
+  "version": "0.1.0",
+  "description": "Exploring the Taiko accessibility plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/taiko-a11y.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/taiko-a11y/issues"
+  },
+  "homepage": "https://github.com/ThirstyHead/taiko-a11y#readme"
+}
