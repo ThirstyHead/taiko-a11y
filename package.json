@@ -4,7 +4,7 @@
   "description": "Exploring the Taiko accessibility plugin",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest accessibility.test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ThirstyHead/taiko-a11y/issues"
   },
-  "homepage": "https://github.com/ThirstyHead/taiko-a11y#readme"
+  "homepage": "https://github.com/ThirstyHead/taiko-a11y#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "taiko": "^1.0.0",
+    "taiko-accessibility": "^0.2.0"
+  }
 }
